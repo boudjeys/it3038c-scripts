@@ -1,6 +1,6 @@
 # it3038c-scripts
 
-Hello, my name is Frank. I am a 4th year at UC studying cybersecurity and Networking systems. I am planning on graduating in the Spring of 2025, including my MSIT.
+Hello, my name is Yanis Boudjema. I am a 4th year at UC studying cybersecurity and Networking systems. I am planning on graduating in the Spring of 2025, including my MSIT.
 
 ## Checklist
 
