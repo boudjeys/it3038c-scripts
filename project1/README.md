@@ -1,4 +1,4 @@
-# Project Name: My Python Script
+# Project Name: FindLargeFile
 
 ## Overview
 For my project, I developed a Python script that efficiently finds the largest file in a given directory. This script is a handy tool for managing and organizing files, especially when you want to identify and work with the largest files within a directory.
