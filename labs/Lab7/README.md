@@ -22,8 +22,15 @@ python -m pip install --upgrade Pillow
 You can run the script by executing the following command in your terminal or command prompt:
 
 ```bash
-python script_name.py
+python boudjeysLab7.py
 ```
-Replace script_name.py with the name of your Python script file.
 
 The script will process the images located in the specified directories and save the processed images in the same directories.
+
+##Example
+Here's how you can run the script using the provided sample script and images:
+
+```bash
+python image_processing.py
+```
+This will execute the script and perform the image processing operations on the example images in the specified directories, such as converting "bear.jpg" to "bear.png," rotating "fish.jpg" and saving it as "fishrotated.jpg," and applying a Gaussian blur to "squirrel.jpg" and saving it as "squirrelblurred.jpg."
