@@ -15,3 +15,15 @@ To install the Pillow Module, run the following commands:
 
 python -m pip install --upgrade pip
 python -m pip install --upgrade Pillow
+```
+
+## Usage
+
+You can run the script by executing the following command in your terminal or command prompt:
+
+```bash
+python script_name.py
+```
+Replace script_name.py with the name of your Python script file.
+
+The script will process the images located in the specified directories and save the processed images in the same directories.
