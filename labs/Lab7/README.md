@@ -27,7 +27,7 @@ python boudjeysLab7.py
 
 The script will process the images located in the specified directories and save the processed images in the same directories.
 
-##Example
+## Example
 Here's how you can run the script using the provided sample script and images:
 
 ```bash
