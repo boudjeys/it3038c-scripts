@@ -31,5 +31,8 @@ This is a simple implementation of the classic game Tetris using Python and Pyga
 
 ## Acknowledgments
 This Tetris game is a simple implementation inspired by the classic Tetris game. It was created using Python and the Pygame library.
+- Special thanks to the [Pygame community](https://www.pygame.org/contribute.html) for their contributions to the Pygame library.
+- Thanks to [OpenAI](https://www.openai.com/) for providing resources and support.
+- Credits to the developers of Tetris for inspiring this project.
 
 ## Enjoy the Game!
