@@ -9,7 +9,7 @@ This is a simple implementation of the classic game Tetris using Python and Pyga
   - Right Arrow: Move the piece right
   - Down Arrow: Move the piece down faster
   - Spacebar: Rotate the piece
-  - R: Restart the game (after Game Over)
+
 
 - **Objective:**
   - The goal is to complete as many horizontal lines as possible to score points.
