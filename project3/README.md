@@ -30,7 +30,6 @@ This is a simple implementation of the classic game Tetris using Python and Pyga
 3. Run the game using the command: `python tetris.py`.
 
 ## Acknowledgments
-- Yanis Boudjema for IT3038C Project 3 contribution.
 - TokyoEdtech for the tutorial on YouTube: [TokyoEdtech Tetris Tutorial](https://www.youtube.com/watch?v=JuMqaU_664k)
 - FreecodeCamp.org for the tutorial on YouTube: [FreecodeCamp Tetris Tutorial](https://www.youtube.com/watch?app=desktop&v=zfvxp7PgQ6c)
 - The developers of Python, pygame, and the random module.
